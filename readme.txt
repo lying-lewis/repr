@@ -3,4 +3,4 @@ Git is free sofware distributed under the GPL.
 dd
 xx
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks of changes.
